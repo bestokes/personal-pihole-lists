@@ -1,0 +1,39 @@
+# Host file to block netflix 
+# Homepage:
+# Mirror:
+# Release: 
+# Licence:
+# Title: Netflix blocklist
+# Expires: 1 days
+# Hosts contributed by 
+# Domain count: 
+# ===================================================================
+0.0.0.0 appboot.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 movies.netflix.com
+0.0.0.0 movies1.netflix.com
+0.0.0.0 movies2.netflix.com
+0.0.0.0 movies3.netflix.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 api-public.netflix.com
+0.0.0.0 meechum.netflix.com
+0.0.0.0 leia.netflix.com
+0.0.0.0 athena.netflix.com
+0.0.0.0 hydra.netflix.com
+0.0.0.0 jira.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ios.prod.ftl.netflix.com
+0.0.0.0 *.prod.http1.netflix.com
+0.0.0.0 ios.prod.cloud.netflix.com
+0.0.0.0 mobile-ixanycast.ftl.netflix.com
+0.0.0.0 msg.netflix.com
+0.0.0.0 cache.netflix.com
+0.0.0.0 www.eu-west-1.prodaa.netflix.com
+0.0.0.0 push.prod.netflix.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 help.netflix.com
