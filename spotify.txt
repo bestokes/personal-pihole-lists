@@ -1,0 +1,42 @@
+# Host file to block spotify 
+# Homepage:
+# Mirror:
+# Release: 
+# Licence:
+# Title: Spotify blocklist
+# Expires: 1 days
+# Hosts contributed by 
+# Domain count: 
+# ===================================================================
+0.0.0.0 ap-gew1.spotify.com
+0.0.0.0 ap-guc3.spotify.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 api.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 ap.single-gslb.spotify.com
+0.0.0.0 audio-ake.spotify.com.edgesuite.net
+0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 clienttoken.spotify.com
+0.0.0.0 dealer.spotify.com
+0.0.0.0 edge-web.dual-gslb.spotify.com
+0.0.0.0 edge-web-gae2.dual-gslb.spotify.com
+0.0.0.0 edge-web-gew1.dual-gslb.spotify.com
+0.0.0.0 edge-web-guc3.dual-gslb.spotify.com
+0.0.0.0 gae2-spclient.spotify.com
+0.0.0.0 gae-spclient.spotify.com
+0.0.0.0 gew1-spclient.spotify.com
+0.0.0.0 gew-spclient.spotify.com
+0.0.0.0 global-dealer-ssl.spotify.com
+0.0.0.0 guc-spclient.spotify.com
+0.0.0.0 heads-ak-spotify-com.akamaized.net
+0.0.0.0 login5.spotify.com
+0.0.0.0 mobile-ap.spotify.com
+0.0.0.0 partners.wg.spotify.com
+0.0.0.0 scdnco.spotify.map.fastly.net
+0.0.0.0 seed-mix-image.spotifycdn.com
+0.0.0.0 sharing-config.spotifycdn.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 spotifycdn.com
+0.0.0.0 spotifycdn.map.fastly.net
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
